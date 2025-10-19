@@ -1,0 +1,10 @@
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\bin\Release\Timer App1.exe.config
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\bin\Release\Timer App1.exe
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\bin\Release\Timer App1.pdb
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Release\Timer App1.csproj.AssemblyReference.cache
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Release\Timer_App1.Form1.resources
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Release\Timer_App1.Properties.Resources.resources
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Release\Timer App1.csproj.GenerateResource.cache
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Release\Timer App1.csproj.CoreCompileInputs.cache
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Release\Timer App1.exe
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Release\Timer App1.pdb

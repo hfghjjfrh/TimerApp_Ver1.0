@@ -1,0 +1,51 @@
+C:\Users\1\source\repos\Timer App1\Timer App1\bin\Debug\Timer App1.exe.config
+C:\Users\1\source\repos\Timer App1\Timer App1\bin\Debug\Timer App1.exe
+C:\Users\1\source\repos\Timer App1\Timer App1\bin\Debug\Timer App1.pdb
+C:\Users\1\source\repos\Timer App1\Timer App1\obj\Debug\Timer App1.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Timer App1\Timer App1\obj\Debug\Timer_App1.Form1.resources
+C:\Users\1\source\repos\Timer App1\Timer App1\obj\Debug\Timer_App1.Properties.Resources.resources
+C:\Users\1\source\repos\Timer App1\Timer App1\obj\Debug\Timer App1.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Timer App1\Timer App1\obj\Debug\Timer App1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Timer App1\Timer App1\obj\Debug\Timer App1.exe
+C:\Users\1\source\repos\Timer App1\Timer App1\obj\Debug\Timer App1.pdb
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe.config
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.pdb
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Form1.resources
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Properties.Resources.resources
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.exe
+C:\Users\1\source\repos\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.pdb
+C:\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe.config
+C:\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe
+C:\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.pdb
+C:\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.AssemblyReference.cache
+C:\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Form1.resources
+C:\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Properties.Resources.resources
+C:\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.GenerateResource.cache
+C:\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.CoreCompileInputs.cache
+C:\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.exe
+C:\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.pdb
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe.config
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.pdb
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Form1.resources
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Properties.Resources.resources
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.exe
+C:\Users\1\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.pdb
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe.config
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.exe
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\bin\Debug\Timer App1.pdb
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.AssemblyReference.cache
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.exe.config
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Form1.resources
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer_App1.Properties.Resources.resources
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.GenerateResource.cache
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.csproj.CoreCompileInputs.cache
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.exe
+C:\Users\hfghj\Desktop\Timer App1 Sound\Timer App1\obj\Debug\Timer App1.pdb
